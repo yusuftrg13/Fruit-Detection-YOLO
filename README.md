@@ -129,10 +129,5 @@ Etiketleme için Label Studio kullanılmıştır.
 
 GitHub: [yusuftrg13](https://github.com/yusuftrg13)
 
-## Model İndirme Linki
-
-Eğitilmiş model ağırlıkları (YOLOv8n) 100MB'dan büyük olduğu için GitHub'a yüklenememiştir. Modeli aşağıdaki linkten indirebilirsiniz:
-
-[YOLOv8 Meyve Tespiti Model Ağırlıkları - Google Drive](https://drive.google.com/BURAYA_GOOGLE_DRIVE_LINKINIZI_EKLEYIN)
-
-İndirdikten sonra, modeli `runs/detect/fruit_detection_v12/weights/best.pt` konumuna yerleştirin.
+## Veri Seti
+https://www.kaggle.com/datasets/itsmeaman03/fruit-detection-yolo
