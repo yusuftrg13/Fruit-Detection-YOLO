@@ -1,0 +1,14 @@
+# Dataset configuration for YOLO training
+
+# List of class names
+names: ["apple","avacado","banana","guava","kiwi","mango","orange","peach","pineapple"]  # Update with your class names
+
+# Path to the dataset root directory
+path: fruit-detection-dataset/fruit-detection-dataset
+
+# Paths to training and validation images
+train: images/train  # Directory containing training images
+val: images/val      # Directory containing validation images
+
+# Number of classes
+nc: 9 # Update this to match the number of classes in your dataset
